@@ -1031,4 +1031,4 @@ and Bruzzone, Lorenzo},
 }
 ```
 # Reference
-- [wenhwu/awesome-remote-sensing-change-detection]([https://github.com/wenhwu/awesome-remote-sensing-change-detection])
+- [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
