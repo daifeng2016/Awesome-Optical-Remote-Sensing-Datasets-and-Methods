@@ -258,6 +258,63 @@ Change detection (CD) aims to compare and analyze images of identical geographic
      <tr>
     <table>
 
+## BCD datasets of multi-modal remote sensing images
+<table>
+<caption>
+	<tr>
+	    <th>Target of interest</th>
+	    <th>Multimodal types</th>
+	    <th>Datasets</th>
+            <th>Year</th>	
+	    <th>Image Pairs</th>
+	    <th>Image size</th>	
+	    <th>Resolution</th>
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="3">Flood</th>
+    <th rowspan="2">Opt-SAR</th>
+    <th>CAU-Flood dataset[<a href="https://doi.org/10.1016/j.jag.2023.103197" target="_blank">paper</a>]</th>
+    <th>2023</th>
+    <th>18302</th>
+    <th>256×256</th>
+    <th>10m</th>
+    <th><a href="https://github.com/CAU-HE/CMCDNet" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th>dataset3_Wuhan[<a href="https://doi.org/10.1016/j.jag.2022.102769" target="_blank">paper</a>]</th>
+    <th>2022</th>
+    <th>1</th>
+    <th>11216×13693</th>
+    <th>3m</th>
+    <th><a href="https://github.com/GeoZcx/A-Domain-Adaption-Neural-Network-for-Change-Detection-with-Heterogeneous-Optical-and-SAR-Remote-Sens" target="_blank">link</a></th>
+    </tr>
+     <tr>
+<caption>
+    <tr>
+    <th rowspan="1">Land for construction</th>
+    <th rowspan="1">Opt-Map</th>
+    <th>EVLab-CMCD[<a href="https://doi.org/10.1016/j.isprsjprs.2024.10.010" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>5622</th>
+    <th>512×512</th>
+    <th>0.8m</th>
+    <th><a href="https://github.com/whudk/EVLab-CMCD" target="_blank">link</a></th>
+    </tr>
+     <tr>
+    <th rowspan="1">Building</th>
+    <th rowspan="1">Opt-DSM</th>
+    <th>Hi-BCD[<a href="https://doi.org/10.1016/j.inffus.2024.102358" target="_blank">paper</a>]</td>
+    <th>2023</th>
+    <th>1500</th>
+    <th>1000×1000</th>
+    <th>0.25m</th>
+    <th><a href="https://github.com/HATFormer/MMCD" target="_blank">link</a></th>
+    </tr>
+     <tr>
+<table>
+
+
 ## SCD datasets of optical remote sensing images 
 <table>
 <caption>
