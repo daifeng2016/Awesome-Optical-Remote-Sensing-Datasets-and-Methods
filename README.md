@@ -1094,7 +1094,7 @@ Please cite our paper if you find it is useful for your research.
   publisher={Elsevier},
   issn = {1569-8432},
   doi = {https://doi.org/10.1016/j.jag.2024.104282},
-  url = {https://www.sciencedirect.com/science/article/pii/S1569843224006381},
+  url = {https://www.sciencedirect.com/science/article/pii/S1569843224006381}
 }
 ```
 # Reference
