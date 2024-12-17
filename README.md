@@ -1,5 +1,5 @@
 # Awesome-Optical-Remote-Sensing-Datasets-and-Methods
-This repository is for summarizing the latest optical remote sensing datasets and methods, which are listed in our review article "Deep learning change detection techniques for optical remote sensing imagery: Status, Perspectives and Challenges."
+This repository is for summarizing the latest optical remote sensing datasets and methods, which are listed in our review article [Deep learning change detection techniques for optical remote sensing imagery: Status, Perspectives and Challenges](https://www.sciencedirect.com/science/article/pii/S1569843224006381)
 # Introduction
 Change detection (CD) aims to compare and analyze images of identical geographic areas but different dates, whereby revealing spatio-temporal change patterns of Earth’s surface. With the implementation of the High-Resolution Earth Observation Project, an integrated sky-to-ground observation system has been continuously developed and improved. The accumulation of massive multi-modal, multi-angle, and mul-ti-resolution remote sensing data have greatly enriched the CD data sources. Among them, high-resolution optical remote sensing images contain abundant spatial detail information, making it possible to interpret fine-grained scenes and greatly expand the application breadth and depth of CD. Generally, traditional optical remote sensing CD methods are cumbersome in steps and have a low level of automation. In con-trast, artificial intelligence (AI) based CD methods possess powerful feature extraction and non-linear modeling capabilities, thereby gaining advantages that traditional methods cannot match. As a result, they have become the mainstream approaches in the field of CD. This review article systematically summarizes the datasets, theories, and methods of CD for optical remote sensing image. It provides a comprehensive analysis of AI-based CD algorithms based on deep learning paradigms from the perspectives of algorithm granularity. In-depth analysis of the performance of typical algorithms are further conducted. Finally, we summarize the challenges and trends of the CD algorithms in the AI era, aiming to provide important guidelines and insights for relevant researchers.
 # Publicaiton trends of DLCD
@@ -1089,9 +1089,9 @@ Please cite our paper if you find it is useful for your research.
   author={Peng, Daifeng, Liu, Xuelian , Zhang, Yongjun,  Guan, Haiyan,  Li Yansheng 
 and Bruzzone, Lorenzo},
   journal={International Journal of Applied Earth Observation and Geoinformation},
-  volume={.},
-  pages={.},
-  year={2024},
+  volume={136},
+  pages={104282},
+  year={2025},
   publisher={Elsevier}
 }
 ```
