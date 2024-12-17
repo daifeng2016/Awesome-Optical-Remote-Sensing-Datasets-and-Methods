@@ -1084,14 +1084,17 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 # Citation
 Please cite our paper if you find it is useful for your research.
 ```
-@article{peng2025,
-  title={Deep learning change detection techniques for optical remote sensing imagery: Status, Perspectives and Challenges},
+@article{PENG2025104282,
+  title={Deep learning change detection techniques for optical remote sensing imagery: Status, perspectives and challenges},
   author={Peng, Daifeng, Liu, Xuelian, Zhang, Yongjun,  Guan, Haiyan,  Li, Yansheng and Bruzzone, Lorenzo},
   journal={International Journal of Applied Earth Observation and Geoinformation},
   volume={136},
   pages={104282},
   year={2025},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  issn = {1569-8432},
+  doi = {https://doi.org/10.1016/j.jag.2024.104282},
+  url = {https://www.sciencedirect.com/science/article/pii/S1569843224006381},
 }
 ```
 # Reference
