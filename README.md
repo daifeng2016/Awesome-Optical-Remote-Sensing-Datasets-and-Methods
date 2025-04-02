@@ -1,3 +1,7 @@
+## 📢 Latest Updates
+:fire::fire::fire:  Lastest Updated on 2025.04.02 for UrbanSARFloods, dataset3_Wuhan, Kuro Siwo, and BRIGHT :fire::fire::fire:
+
+
 # Awesome-Optical-Remote-Sensing-Datasets-and-Methods
 This repository is for summarizing the latest optical remote sensing datasets and methods, which are listed in our review article [Deep learning change detection techniques for optical remote sensing imagery: Status, Perspectives and Challenges](https://www.sciencedirect.com/science/article/pii/S1569843224006381) published in International Journal of Applied Earth Observation and Geoinformation.
 # Introduction
