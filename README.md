@@ -258,6 +258,30 @@ Change detection (CD) aims to compare and analyze images of identical geographic
      <tr>
     <table>
 
+## BCD datasets of SAR remote sensing images
+<table>
+<caption>
+	<tr>
+	    <th>Target of interest</th>
+	    <th>Datasets</th>
+            <th>Year</th>	
+	    <th>Image Pairs</th>
+	    <th>Image size</th>	
+	    <th>Resolution</th>
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="1">Flood</th>
+    <th>UrbanSARFloods [<a href="https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Zhao_UrbanSARFloods_Sentinel-1_SLC-Based_Benchmark_Dataset_for_Urban_and_Open-Area_Flood_CVPRW_2024_paper.html" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>8879</th>
+    <th>512×512</th>
+    <th>20m</th>
+    <th> <a href="https://github.com/jie666-6/UrbanSARFloods" target="_blank">link</a></th>
+    </tr>
+    <tr>
+<table>
+
 ## BCD datasets of multi-modal remote sensing images
 <table>
 <caption>
@@ -272,7 +296,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	    <th>Website</th>
 	</tr>
     <tr>
-    <th rowspan="3">Flood</th>
+    <th rowspan="4">Flood</th>
     <th rowspan="3">Opt-SAR</th>
     <th>CAU-Flood dataset[<a href="https://doi.org/10.1016/j.jag.2023.103197" target="_blank">paper</a>]</th>
     <th>2023</th>
@@ -292,14 +316,21 @@ Change detection (CD) aims to compare and analyze images of identical geographic
      <tr>
     <th>Ombria dataset[<a href="https://ieeexplore.ieee.org/document/9723593" target="_blank">paper</a>]</th>
     <th>2022</th>
-    <th>844</th>
+    <th>1688</th>
     <th>256×256</th>
     <th>10m</th>
     <th><a href="https://github.com/geodrak/OMBRIA" target="_blank">link</a></th>
     </tr>
      <tr>
-<caption>
-    <tr>
+    <th rowspan="1">DEM-SAR</th>
+    <th>Kuro Siwo[<a href="https://doi.org/10.48550/arXiv.2311.12056" target="_blank">paper</a>]</th>
+    <th>2023</th>
+    <th>67490</th>
+    <th>224×224</th>
+    <th>10m</th>
+    <th><a href="https://github.com/Orion-AI-Lab/KuroSiwo" target="_blank">link</a></th>
+    </tr>
+     <tr>
     <th rowspan="1">Land for construction</th>
     <th rowspan="1">Opt-Map</th>
     <th>EVLab-CMCD[<a href="https://doi.org/10.1016/j.isprsjprs.2024.10.010" target="_blank">paper</a>]</th>
@@ -310,7 +341,16 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="https://github.com/whudk/EVLab-CMCD" target="_blank">link</a></th>
     </tr>
      <tr>
-    <th rowspan="1">Building</th>
+    <th rowspan="2">Building</th>
+    <th rowspan="1">Opt-SAR</th>
+    <th>BRIGHT[<a href="https://doi.org/10.48550/arXiv.2501.06019" target="_blank">paper</a>]</td>
+    <th>2025</th>
+    <th>4538</th>
+    <th>1024×1024</th>
+    <th>0.3-1m</th>
+    <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
+    </tr>
+     <tr>
     <th rowspan="1">Opt-DSM</th>
     <th>Hi-BCD[<a href="https://doi.org/10.1016/j.inffus.2024.102358" target="_blank">paper</a>]</td>
     <th>2023</th>
@@ -321,7 +361,6 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     </tr>
      <tr>
 <table>
-
 
 ## SCD datasets of optical remote sensing images 
 <table>
