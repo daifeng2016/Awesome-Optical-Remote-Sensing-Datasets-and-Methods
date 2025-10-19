@@ -1139,7 +1139,6 @@ Please cite our paper if you find it is useful for your research.
   doi = {https://doi.org/10.1016/j.jag.2024.104282},
   url = {https://www.sciencedirect.com/science/article/pii/S1569843224006381}
 }
-
 ```
 # Reference
 - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
