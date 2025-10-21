@@ -23,7 +23,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	    <th>Website</th>
 	</tr>
 	<tr>
-	<th rowspan="14">Building</th>
+	<th rowspan="15">Building</th>
     <th>DVCD[<a href="https://arxiv.org/abs/2506.17944">paper</a>]</th>
     <th>2025</th>
     <th>12833</th>
@@ -78,6 +78,14 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>256×256</th>
     <th>0.5m</th>
     <th> <a href="https://github.com/liumency/SYSU-CD" target="_blank">link</a></th>
+    </tr>
+	<tr>
+	<th>MUDS (or SpaceNet 7)[<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Van_Etten_The_Multi-Temporal_Urban_Development_SpaceNet_Dataset_CVPR_2021_paper.pdf">paper</a>]</th>
+    <th>2020</th>
+    <th>-</th>
+    <th>1024*1024</th>
+    <th>4m</th>
+    <th> <a href="https://medium.com/the-downlinq/the-spacenet-7-multi-temporal-urban-development-challenge-dataset-release-9e6e5f65c8d5" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>CD_Data_GZ[<a href="https://doi.org/10.1109/TGRS.2020.3011913" target="_blank">paper</a>]</th>
