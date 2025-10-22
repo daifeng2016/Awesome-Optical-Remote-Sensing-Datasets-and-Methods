@@ -427,7 +427,23 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	    <th>Website</th>
 	</tr>
     <tr>
-    <th rowspan="13">Land cover</th>
+    <th rowspan="16">Land cover</th>
+	<th>SC-SCD7,CC-SCD5[<a href="https://www.sciencedirect.com/science/article/pii/S0924271625003776?dgcid=rss_sd_all" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>1722;953</th>
+    <th>512×512</th>
+    <th>0.5m,2.3m,2.5m</th>
+    <th> <a href="https://github.com/StephenApX/MTL-TripleS" target="_blank">link</a></th>
+    </tr>
+	<tr>
+    <th>LevirSCD[<a href="https://arxiv.org/abs/2509.15788" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>3225</th>
+    <th>256×256</th>
+    <th>1-2m</th>
+    <th> <a href="https://github.com/zmoka-zht/FoBa" target="_blank">link</a></th>
+    </tr>
+	<tr>
     <th>CropSCD[<a href="https://doi.org/10.5194/isprs-annals-X-1-2024-75-2024" target="_blank">paper</a>]</th>
     <th>2024</th>
     <th>4141</th>
@@ -482,6 +498,14 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>416×416</th>
     <th>30m</th>
     <th><a href="https://figshare.com/articles/figure/Landsat-SCD_dataset_zip/19946135/1" target="_blank">link</a></th>
+    </tr>
+	<tr>
+    <th>MSD[<a href="https://ieeexplore.ieee.org/document/9690575" target="_blank">paper</a>]</th>
+    <th>2021</th>
+    <th>2250</th>
+    <th>-</th>
+    <th>1m,30m</th>
+    <th><a href="https://www.grss-ieee.org/community/technical-committees/2021-ieee-grss-data-fusion-contest-track-msd/" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>S2MTCP[<a href="https://doi.org/10.1007/978-3-030-68787-8_42" target="_blank">paper</a>]</th>
