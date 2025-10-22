@@ -196,7 +196,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>-</th>
     </tr>
 	<tr>
-    <th>SZTAKI[<a href="https://ieeexplore.ieee.org/document/8518015" target="_blank">paper</a>]</th>
+    <th>SZTAKI[<a href="https://ieeexplore.ieee.org/document/5169964" target="_blank">paper</a>]</th>
     <th>2008</th>
     <th>13</th>
     <th>952×640</th>
