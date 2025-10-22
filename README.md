@@ -147,7 +147,15 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <caption>
     </tr>
      <tr>
-    <th rowspan="4">Land cover</th>
+    <th rowspan="5">Land cover</th>
+	<th>JL1-CD[<a href="https://arxiv.org/pdf/2502.13407" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>5000</th>
+    <th>512×512</th>
+    <th>0.5m-0.75m</th>
+    <th><a href="https://github.com/circleLZY/MTKD-CD" target="_blank">link</a></th>
+    </tr>
+     <tr>
     <th>TZ-CD[<a href="https://doi.org/10.3390/rs15051219" target="_blank">paper</a>]</th>
     <th>2023</th>
     <th>1</th>
