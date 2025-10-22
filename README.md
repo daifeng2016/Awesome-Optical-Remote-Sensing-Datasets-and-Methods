@@ -400,7 +400,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>472</th>
     <th>400×400/200×200</th>
     <th>0.5m,1m</th>
-    <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
+    <th><a href="https://sites.google.com/uniroma1.it/3dchangedetection/home-page?pli=1" target="_blank">link</a></th>
     </tr>
      <tr>
     <th rowspan="1">Opt-DSM</th>
