@@ -180,12 +180,12 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/" target="_blank">link</a></th>
     </tr>
      <tr>
-    <th>OSCD[<a href="[https://doi.org/10.1109/TGRS.2020.2981051](https://ieeexplore.ieee.org/document/8518015)" target="_blank">paper</a>]</th>
+    <th>OSCD[<a href="https://ieeexplore.ieee.org/document/8518015" target="_blank">paper</a>]</th>
     <th>2018</th>
     <th>24</th>
     <th>600×600</th>
     <th>10m-60m</th>
-    <th><a href="[http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection)" target="_blank">link</a></th>
+    <th><a href="https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>AICD[<a href="https://ieeexplore.ieee.org/document/6050150" target="_blank">paper</a>]</th>
@@ -196,7 +196,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>-</th>
     </tr>
 	<tr>
-    <th>SZTAKI[<a href="[[https://doi.org/10.1109/TGRS.2020.2981051](https://ieeexplore.ieee.org/document/8518015)](https://ieeexplore.ieee.org/document/5169964)" target="_blank">paper</a>]</th>
+    <th>SZTAKI[<a href="https://ieeexplore.ieee.org/document/8518015" target="_blank">paper</a>]</th>
     <th>2008</th>
     <th>13</th>
     <th>952×640</th>
@@ -395,12 +395,12 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
     </tr>
 	<tr>
-	<th>3DCD[<a href="[https://doi.org/10.48550/arXiv.2501.06019](https://www.sciencedirect.com/science/article/pii/S0924271622003240)" target="_blank">paper</a>]</td>
+	<th>3DCD[<a href="https://www.sciencedirect.com/science/article/pii/S0924271622003240" target="_blank">paper</a>]</td>
     <th>2023</th>
     <th>472</th>
     <th>400×400/200×200</th>
     <th>0.5m,1m</th>
-    <th><a href="[https://github.com/ChenHongruixuan/BRIGHT](https://sites.google.com/uniroma1.it/3dchangedetection/home-page?pli=1)" target="_blank">link</a></th>
+    <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
     </tr>
      <tr>
     <th rowspan="1">Opt-DSM</th>
