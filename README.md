@@ -147,7 +147,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <caption>
     </tr>
      <tr>
-    <th rowspan="5">Land cover</th>
+    <th rowspan="7">Land cover</th>
 	<th>JL1-CD[<a href="https://arxiv.org/pdf/2502.13407" target="_blank">paper</a>]</th>
     <th>2025</th>
     <th>5000</th>
@@ -171,7 +171,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>-</th>
     <th>-</th>
     </tr>
-     <tr>
+	<tr>
     <th>ZY3[<a href="https://doi.org/10.1109/TGRS.2020.2981051" target="_blank">paper</a>]</th>
     <th>2017</th>
     <th>1</th>
@@ -180,12 +180,28 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/" target="_blank">link</a></th>
     </tr>
      <tr>
+    <th>OSCD[<a href="[https://doi.org/10.1109/TGRS.2020.2981051](https://ieeexplore.ieee.org/document/8518015)" target="_blank">paper</a>]</th>
+    <th>2018</th>
+    <th>24</th>
+    <th>600×600</th>
+    <th>10m-60m</th>
+    <th><a href="[http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection)" target="_blank">link</a></th>
+    </tr>
+     <tr>
     <th>AICD[<a href="https://ieeexplore.ieee.org/document/6050150" target="_blank">paper</a>]</th>
     <th>2011</th>
     <th>1000</th>
     <th>800×600</th>
     <th>0.5m</th>
     <th>-</th>
+    </tr>
+	<tr>
+    <th>SZTAKI[<a href="[[https://doi.org/10.1109/TGRS.2020.2981051](https://ieeexplore.ieee.org/document/8518015)](https://ieeexplore.ieee.org/document/5169964)" target="_blank">paper</a>]</th>
+    <th>2008</th>
+    <th>13</th>
+    <th>952×640</th>
+    <th>1.5m</th>
+    <th><a href="http://web.eee.sztaki.hu/remotesensing/airchange_benchmark.html" target="_blank">link</a></th>
     </tr>
      <tr>
 <caption>
@@ -369,14 +385,22 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="https://github.com/whudk/EVLab-CMCD" target="_blank">link</a></th>
     </tr>
      <tr>
-    <th rowspan="2">Building</th>
-    <th rowspan="1">Opt-SAR</th>
+    <th rowspan="3">Building</th>
+    <th rowspan="2">Opt-SAR</th>
     <th>BRIGHT[<a href="https://doi.org/10.48550/arXiv.2501.06019" target="_blank">paper</a>]</td>
     <th>2025</th>
     <th>4538</th>
     <th>1024×1024</th>
     <th>0.3-1m</th>
     <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
+    </tr>
+	<tr>
+	<th>3DCD[<a href="[https://doi.org/10.48550/arXiv.2501.06019](https://www.sciencedirect.com/science/article/pii/S0924271622003240)" target="_blank">paper</a>]</td>
+    <th>2023</th>
+    <th>472</th>
+    <th>400×400/200×200</th>
+    <th>0.5m,1m</th>
+    <th><a href="[https://github.com/ChenHongruixuan/BRIGHT](https://sites.google.com/uniroma1.it/3dchangedetection/home-page?pli=1)" target="_blank">link</a></th>
     </tr>
      <tr>
     <th rowspan="1">Opt-DSM</th>
