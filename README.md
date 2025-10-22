@@ -559,7 +559,15 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <caption>
     </tr>
      <tr>
-    <th rowspan="4">Building</th>
+    <th rowspan="5">Building</th>
+	<th>EBD[<a href="https://spj.science.org/doi/full/10.34133/remotesensing.0733?af=R" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>>18,000</th>
+    <th>512×512</th>
+    <th>0.3m-0.5m</th>
+    <th><a href="https://figshare.com/articles/figure/An_Extended_Building_Damage_EBD_dataset_constructed_from_disaster-related_bi-temporal_remote_sensing_images_/25285009/2" target="_blank">link</a></th>
+    </tr>
+     <tr>
     <th>BANDON[<a href="https://doi.org/10.1007/s11432-022-3691-4" target="_blank">paper</a>]</th>
     <th>2023</th>
     <th>2283</th>
