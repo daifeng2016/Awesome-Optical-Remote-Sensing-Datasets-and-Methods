@@ -83,7 +83,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	<th>MUDS (or SpaceNet 7)[<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Van_Etten_The_Multi-Temporal_Urban_Development_SpaceNet_Dataset_CVPR_2021_paper.pdf">paper</a>]</th>
     <th>2020</th>
     <th>-</th>
-    <th>1024*1024</th>
+    <th>1024×1024</th>
     <th>4m</th>
     <th> <a href="https://medium.com/the-downlinq/the-spacenet-7-multi-temporal-urban-development-challenge-dataset-release-9e6e5f65c8d5" target="_blank">link</a></th>
     </tr>
