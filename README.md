@@ -223,6 +223,15 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>0.5-2m</th>
     <th><a href="https://github.com/liumency/CropLand-CD" target="_blank">link</a></th>
     </tr>
+	<tr>
+    <th rowspan="1">Urban</th>
+    <th>HTCD[<a href="https://www.mdpi.com/2072-4292/13/18/3750/htm" target="_blank">paper</a>]</th>
+    <th>2021</th>
+    <th>3772</th>
+    <th>256×256,2048×2048</th>
+    <th>0.5971m,0.07645m</th>
+    <th><a href="https://github.com/ShaoRuizhe/SUNet-change_detection" target="_blank">link</a></th>
+    </tr>
      <tr>
     <th rowspan="1">Riverway</th>
     <th>The River Data Set[<a href="https://doi.org/10.1109/TGRS.2018.2849692" target="_blank">paper</a>]</th>
@@ -383,6 +392,16 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>512×512</th>
     <th>0.8m</th>
     <th><a href="https://github.com/whudk/EVLab-CMCD" target="_blank">link</a></th>
+    </tr>
+	 <tr>
+    <th rowspan="1">land cover</th>
+    <th rowspan="1">Opt-SAR</th>
+    <th>MultiModalOSCD[<a href="https://isprs-archives.copernicus.org/articles/XLIII-B3-2021/243/2021/isprs-archives-XLIII-B3-2021-243-2021.pdf" target="_blank">paper</a>]</td>
+    <th>2021</th>
+    <th>24</th>
+    <th>600×600</th>
+    <th>10-60m</th>
+    <th><a href="https://github.com/PatrickTUM/multimodalCD_ISPRS21" target="_blank">link</a></th>
     </tr>
      <tr>
     <th rowspan="3">Building</th>
@@ -599,7 +618,28 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>0.5-0.8m</th>
     <th><a href="https://github.com/S2Looking/Dataset" target="_blank">link</a></th>
     </tr>
-     <tr>
+	<tr>
+<caption>
+    <tr>
+    <th rowspan="1">Landuse</th>
+    <th>MLCD[<a href="https://ieeexplore.ieee.org/document/11058393" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>10000</th>
+    <th>256×256</th>
+    <th>0.5-2m</th>
+    <th><a href="https://aistudio.baidu.com/dataset/detail/245516/intro" target="_blank">link</a></th>
+    </tr>
+	<caption>
+    <tr>
+    <th rowspan="1">Urban</th>
+    <th>MSRS-CD[<a href="https://ieeexplore.ieee.org/document/10813409" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>841</th>
+    <th>1024×1024</th>
+    <th>0.5m</th>
+    <th><a href="https://github.com/bobo59/MSRSCD" target="_blank">link</a></th>
+    </tr>
+	<tr>
 <caption>
     <tr>
     <th rowspan="1">Landslide</th>
@@ -609,6 +649,28 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>1748×1748-10808×7424</th>
     <th>0.59m</th>
     <th><a href="https://sagarverma.github.io/qfabric" target="_blank">link</a></th>
+    </tr>
+	<tr>
+	<caption>
+    <tr>
+    <th rowspan="1">Cropland</th>
+    <th>JL-Cropland-CD</th>
+    <th>2023</th>
+    <th>8000</th>
+    <th>256×256</th>
+    <th><0.75m</th>
+    <th><a href="https://www.jl1mall.com/resrepo/?fromUrl=https://www.jl1mall.com/edu" target="_blank">link</a></th>
+    </tr>
+	<tr>
+	<caption>
+    <tr>
+    <th rowspan="1">Flood</th>
+    <th>SpaceNet8[<a href="https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Hansch_SpaceNet_8_-_The_Detection_of_Flooded_Roads_and_Buildings_CVPRW_2022_paper.pdf" target="_blank">paper</a>]</th>
+    <th>2022</th>
+    <th>12</th>
+    <th>1300×1300</th>
+    <th>0.3-0.8m</th>
+    <th><a href="https://join.topcoder.com/spacenet" target="_blank">link</a></th>
     </tr>
      <tr>
 <table>
