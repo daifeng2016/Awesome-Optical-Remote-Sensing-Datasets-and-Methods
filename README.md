@@ -1,5 +1,5 @@
 ## 📢 Latest Updates
-:fire::fire::fire:  Lastest Updated on 2025.04.02 for UrbanSARFloods, dataset3_Wuhan, Kuro Siwo, and BRIGHT :fire::fire::fire:
+:fire::fire::fire:  Lastest Updated on 2025.10.28 for some new datesets :fire::fire::fire:
 
 
 # Awesome-Optical-Remote-Sensing-Datasets-and-Methods
