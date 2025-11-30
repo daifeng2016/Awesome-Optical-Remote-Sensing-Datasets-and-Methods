@@ -259,6 +259,24 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>30m</th>
     <th><a href="https://share.weiyun.com/5xdge4R" target="_blank">link</a></th>
     </tr>
+	<tr>
+    <th rowspan="1">Water</th>
+    <th>HSRW-CD[<a href="https://arxiv.org/abs/2511.16143" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>2085</th>
+    <th>512×512</th>
+    <th>>3m</th>
+    <th><a href="https://github.com/QingMa1/SSCP" target="_blank">link</a></th>
+    </tr>
+	 <tr>
+    <th rowspan="1">Landslide</th>
+    <th>GLa4DCD[<a href="https://zenodo.org/records/10800338" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th><a href="https://zenodo.org/records/10800338" target="_blank">link</a></th>
+    </tr>
      <tr>
 <table>
 	
@@ -730,7 +748,41 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>0.3-0.8m</th>
     <th><a href="https://join.topcoder.com/spacenet" target="_blank">link</a></th>
     </tr>
+	<caption>
+    <tr>
+    <th rowspan="1">Road and bridge</th>
+    <th>RB-SCD[<a href="https://arxiv.org/abs/2505.13212" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>5016</th>
+    <th>256×256</th>
+    <th>0.59m</th>
+    <th><a href="https://github.com/DaGuangDaGuang/RB-SCD" target="_blank">link</a></th>
+    </tr>
      <tr>
+<table>
+
+## SCD datasets of SAR remote sensing images 
+<table>
+<caption>
+	<tr>
+	    <th>Target of interest</th>
+	    <th>Datasets</th>
+            <th>Year</th>	
+	    <th>Image Pairs</th>
+	    <th>Image size</th>	
+	    <th>Resolution</th>
+	    <th>Website</th>
+	</tr>
+    <tr>
+    <th rowspan="1">flood</th>
+	<th>KuroSiwo[<a href="https://arxiv.org/abs/2311.12056" target="_blank">paper</a>]</th>
+    <th>2024</th>
+    <th>-</th>
+    <th>-</th>
+    <th>10m</th>
+    <th> <a href="https://github.com/StephenApX/MTL-TripleS" target="_blank">link</a></th>
+    </tr>
+	<tr>
 <table>
 
 
