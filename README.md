@@ -763,7 +763,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
      <tr>
 <table>
 
-## SCD datasets of SAR remote sensing images 
+## SCD datasets of SAR images 
 <table>
 <caption>
 	<tr>
@@ -782,7 +782,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>-</th>
     <th>-</th>
     <th>10m</th>
-    <th> <a href="https://github.com/StephenApX/MTL-TripleS" target="_blank">link</a></th>
+    <th> <a href="https://github.com/Orion-AI-Lab/KuroSiwo" target="_blank">link</a></th>
     </tr>
 	<tr>
 <table>
