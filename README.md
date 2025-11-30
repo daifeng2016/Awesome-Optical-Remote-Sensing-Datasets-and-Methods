@@ -25,7 +25,15 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	    <th>Website</th>
 	</tr>
 	<tr>
-	<th rowspan="16">Building</th>
+	<th rowspan="17">Building</th>
+    <th>CWSCD[<a href="https://www.sciencedirect.com/science/article/pii/S1569843225005084?dgcid=rss_sd_all" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>200</th>
+    <th>2048×2048</th>
+    <th>1m</th>
+    <th> <a href="https://github.com/yuruqingsi/CWSCD-dataset" target="_blank">link</a></th>
+    </tr>
+	<tr>
     <th>DVCD[<a href="https://arxiv.org/abs/2506.17944">paper</a>]</th>
     <th>2025</th>
     <th>12833</th>
@@ -689,7 +697,21 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	<tr>
 	<caption>
     <tr>
-    <th rowspan="1">Cropland</th>
+    <th rowspan="3">Cropland</th>
+	<th>Xiamen[<a href="https://www.sciencedirect.com/science/article/pii/S1569843225005631?dgcid=rss_sd_all" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>6480</th>
+    <th>256×256</th>
+    <th>0.5m</th>
+    <th><a href="https://github.com/long123524/CPGNet" target="_blank">link</a></th>
+    </tr>
+	<th>Fuzhou[<a href="https://www.sciencedirect.com/science/article/pii/S0924271624001709" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>8719</th>
+    <th>256×256</th>
+    <th>0.5m</th>
+    <th><a href="https://github.com/long123524/HGINet-torch" target="_blank">link</a></th>
+    </tr>
     <th>JL-Cropland-CD</th>
     <th>2023</th>
     <th>8000</th>
