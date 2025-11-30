@@ -1,5 +1,7 @@
 ## 📢 Latest Updates
-:fire::fire::fire:  Lastest Updated on 2025.10.28 for some new datesets :fire::fire::fire:
+:fire::fire::fire:  Lastest Updated on 2025.10.28 for DVCD,JL1-CD,HTCD,MUDS(SpaceNet7),xBD,OSCD,SZTAKI,3DCD,MUltiMOdalOSCD,SC-SCD7,CC-SCD5,LevirSCD,EBD,MLCD,MSRS,JL-Cropland-CD,SpaceNet8,MSD :fire::fire::fire:
+
+:fire::fire::fire:  Lastest Updated on 2025.04.02 for UrbanSARFloods,dataset3_Wuhan,Kuro Siwo,and BRIGHT :fire::fire::fire:
 
 
 # Awesome-Optical-Remote-Sensing-Datasets-and-Methods
@@ -118,6 +120,14 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>1024×1024</th>
     <th>0.5m</th>
     <th><a href="https://github.com/S2Looking/Dataset" target="_blank">link</a></th>
+    </tr>
+	 <tr>
+    <th>xBD[<a href="https://arxiv.org/abs/1911.09296" target="_blank">paper</a>]</th>
+    <th>2019</th>
+    <th>11,034</th>
+    <th>1024×1024</th>
+    <th><0.8m</th>
+    <th><a href="https://xview2.org/dataset" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>WHU Building CD[<a href="https://doi.org/10.1109/TGRS.2018.2858817" target="_blank">paper</a>]</th>
