@@ -25,7 +25,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	    <th>Website</th>
 	</tr>
 	<tr>
-	<th rowspan="15">Building</th>
+	<th rowspan="16">Building</th>
     <th>DVCD[<a href="https://arxiv.org/abs/2506.17944">paper</a>]</th>
     <th>2025</th>
     <th>12833</th>
