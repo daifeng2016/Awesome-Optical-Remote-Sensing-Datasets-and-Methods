@@ -1,4 +1,6 @@
 ## 📢 Latest Updates
+:fire::fire::fire:  Lastest Updated on 2025.11.31 for Xiamen,Fuzhou,CWSCD,RB-SCD,KuroSiwo,GLaD4CD,HSRW-CD :fire::fire::fire:
+
 :fire::fire::fire:  Lastest Updated on 2025.10.28 for DVCD,JL1-CD,HTCD,MUDS(SpaceNet7),xBD,OSCD,SZTAKI,3DCD,MUltiMOdalOSCD,SC-SCD7,CC-SCD5,LevirSCD,EBD,MLCD,MSRS,JL-Cropland-CD,SpaceNet8,MSD :fire::fire::fire:
 
 :fire::fire::fire:  Lastest Updated on 2025.04.02 for UrbanSARFloods,dataset3_Wuhan,Kuro Siwo,and BRIGHT :fire::fire::fire:
@@ -270,7 +272,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     </tr>
 	 <tr>
     <th rowspan="1">Landslide</th>
-    <th>GLa4DCD[<a href="https://zenodo.org/records/10800338" target="_blank">paper</a>]</th>
+    <th>GLaD4CD[<a href="https://zenodo.org/records/10800338" target="_blank">paper</a>]</th>
     <th>2024</th>
     <th>-</th>
     <th>-</th>
