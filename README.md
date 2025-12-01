@@ -763,7 +763,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
      <tr>
 <table>
 
-## SCD datasets of SAR images 
+## SCD datasets of SAR remote sensing images 
 <table>
 <caption>
 	<tr>
