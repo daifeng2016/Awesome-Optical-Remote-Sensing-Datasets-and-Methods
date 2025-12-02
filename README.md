@@ -527,7 +527,7 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th> <a href="https://github.com/zmoka-zht/FoBa" target="_blank">link</a></th>
     </tr>
 	<tr>
-    <th>CropSCD[<a href="https://doi.org/10.5194/isprs-annals-X-1-2024-75-2024" target="_blank">paper</a>]</th>
+    <th>CropSCD[<a href="https://ieeexplore.ieee.org/document/10579791" target="_blank">paper</a>]</th>
     <th>2024</th>
     <th>4141</th>
     <th>512×512</th>
