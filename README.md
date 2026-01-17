@@ -1,9 +1,11 @@
 ## 📢 Latest Updates
-:fire::fire::fire:  Lastest Updated on 2025.12.01 for Xiamen,Fuzhou,CWSCD,RB-SCD,KuroSiwo,GLaD4CD,HSRW-CD :fire::fire::fire:
+:fire::fire::fire:  Lastest Updated on 2026.01.17 for DSCD :fire::fire::fire:
 
-:fire::fire::fire:  Lastest Updated on 2025.10.28 for DVCD,JL1-CD,HTCD,MUDS(SpaceNet7),xBD,OSCD,SZTAKI,3DCD,MUltiMOdalOSCD,SC-SCD7,CC-SCD5,LevirSCD,EBD,MLCD,MSRS,JL-Cropland-CD,SpaceNet8,MSD :fire::fire::fire:
+:fire::fire::fire:  Updated on 2025.12.01 for Xiamen,Fuzhou,CWSCD,RB-SCD,KuroSiwo,GLaD4CD,HSRW-CD :fire::fire::fire:
 
-:fire::fire::fire:  Lastest Updated on 2025.04.02 for UrbanSARFloods,dataset3_Wuhan,Kuro Siwo,and BRIGHT :fire::fire::fire:
+:fire::fire::fire:  Updated on 2025.10.28 for DVCD,JL1-CD,HTCD,MUDS(SpaceNet7),xBD,OSCD,SZTAKI,3DCD,MUltiMOdalOSCD,SC-SCD7,CC-SCD5,LevirSCD,EBD,MLCD,MSRS,JL-Cropland-CD,SpaceNet8,MSD :fire::fire::fire:
+
+:fire::fire::fire:  Updated on 2025.04.02 for UrbanSARFloods,dataset3_Wuhan,Kuro Siwo,and BRIGHT :fire::fire::fire:
 
 
 # Awesome-Optical-Remote-Sensing-Datasets-and-Methods
@@ -759,6 +761,16 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>256×256</th>
     <th>0.59m</th>
     <th><a href="https://github.com/DaGuangDaGuang/RB-SCD" target="_blank">link</a></th>
+    </tr>
+	<caption>
+    <tr>
+    <th rowspan="1">Desert</th>
+    <th>DSCD[<a href="https://doi.org/10.1109/TGRS.2026.3650952" target="_blank">paper</a>]</th>
+    <th>2026</th>
+    <th>10,000</th>
+    <th>256×256</th>
+    <th>0.5-2m</th>
+    <th><a href="https://www.modelscope.cn/datasets/chuntsing/DSCD" target="_blank">link</a></th>
     </tr>
      <tr>
 <table>
