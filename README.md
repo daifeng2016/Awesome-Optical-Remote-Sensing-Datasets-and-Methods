@@ -1,5 +1,7 @@
 ## 📢 Latest Updates
-:fire::fire::fire:  Lastest Updated on 2026.01.17 for DSCD :fire::fire::fire:
+:fire::fire::fire:  Lastest Updated on 2026.01.31 for HeteCD :fire::fire::fire:
+
+:fire::fire::fire:  Updated on 2026.01.17 for DSCD :fire::fire::fire:
 
 :fire::fire::fire:  Updated on 2025.12.01 for Xiamen,Fuzhou,CWSCD,RB-SCD,KuroSiwo,GLaD4CD,HSRW-CD :fire::fire::fire:
 
@@ -444,14 +446,22 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="https://github.com/PatrickTUM/multimodalCD_ISPRS21" target="_blank">link</a></th>
     </tr>
      <tr>
-    <th rowspan="3">Building</th>
-    <th rowspan="2">Opt-SAR</th>
+    <th rowspan="4">Building</th>
+    <th rowspan="3">Opt-SAR</th>
     <th>BRIGHT[<a href="https://doi.org/10.48550/arXiv.2501.06019" target="_blank">paper</a>]</td>
     <th>2025</th>
     <th>4538</th>
     <th>1024×1024</th>
     <th>0.3-1m</th>
     <th><a href="https://github.com/ChenHongruixuan/BRIGHT" target="_blank">link</a></th>
+    </tr>
+	 <tr>
+    <th>HeteCD[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271625001066" target="_blank">paper</a>]</th>
+    <th>2025</th>
+    <th>-</th>
+    <th>512×512</th>
+    <th>4m-8m</th>
+    <th><a href="https://github.com/weiAI1996/HeteCD" target="_blank">link</a></th>
     </tr>
 	<tr>
 	<th>3DCD[<a href="https://www.sciencedirect.com/science/article/pii/S0924271622003240" target="_blank">paper</a>]</td>
