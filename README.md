@@ -696,6 +696,15 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     </tr>
 	<tr>
 <caption>
+	<tr>
+    <th rowspan="1">Urban Village</th>
+	<th>ZY-UV[<a href="https://doi.org/10.1016/j.isprsjprs.2026.03.028" target="_blank">paper</a>]</th>
+    <th>2026</th>
+    <th>10394</th>
+    <th>512×512</th>
+    <th>2.1m</th>
+    <th><a href="https://github.com/zxt9/ZY-UV">link</a></th>
+    </tr>
     <tr>
     <th rowspan="1">Landuse</th>
     <th>MLCD[<a href="https://ieeexplore.ieee.org/document/11058393" target="_blank">paper</a>]</th>
