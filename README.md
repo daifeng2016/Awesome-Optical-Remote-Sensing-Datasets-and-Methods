@@ -1,9 +1,11 @@
 ## 📢 Latest Updates
-:fire::fire::fire:  Lastest Updated on 2026.04.09 for Delta-SN6,Wuhan-Het :fire::fire::fire:
+:fire::fire::fire:  Lastest Updated on 2026.05.18 for GF-HCD Dataset :fire::fire::fire:
 
-:fire::fire::fire:  Lastest Updated on 2026.04.01 for ZY-UV :fire::fire::fire:
+:fire::fire::fire:  Updated on 2026.04.09 for Delta-SN6,Wuhan-Het :fire::fire::fire:
 
-:fire::fire::fire:  Lastest Updated on 2026.01.31 for XiongAn Dataset:fire::fire::fire:
+:fire::fire::fire:  Updated on 2026.04.01 for ZY-UV :fire::fire::fire:
+
+:fire::fire::fire:  Updated on 2026.01.31 for XiongAn Dataset:fire::fire::fire:
 
 :fire::fire::fire:  Updated on 2026.01.17 for DSCD :fire::fire::fire:
 
@@ -440,14 +442,22 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th><a href="https://github.com/whudk/EVLab-CMCD" target="_blank">link</a></th>
     </tr>
 	 <tr>
-    <th rowspan="1">land cover</th>
-    <th rowspan="1">Opt-SAR</th>
+    <th rowspan="2">land cover</th>
+    <th rowspan="2">Opt-SAR</th>
     <th>MultiModalOSCD[<a href="https://isprs-archives.copernicus.org/articles/XLIII-B3-2021/243/2021/isprs-archives-XLIII-B3-2021-243-2021.pdf" target="_blank">paper</a>]</td>
     <th>2021</th>
     <th>24</th>
     <th>600×600</th>
     <th>10-60m</th>
     <th><a href="https://github.com/PatrickTUM/multimodalCD_ISPRS21" target="_blank">link</a></th>
+    </tr>
+	 <tr>
+    <th>GF-HCD[<a href="https://ieeexplore.ieee.org/document/11343859" target="_blank">paper</a>]</td>
+    <th>2026</th>
+    <th>1375</th>
+    <th>256×256</th>
+    <th>-</th>
+    <th><a href="https://github.com/songxy9037/WaveHFG" target="_blank">link</a></th>
     </tr>
      <tr>
     <th rowspan="5">Building</th>
