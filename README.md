@@ -1,5 +1,7 @@
 ## 📢 Latest Updates
-:fire::fire::fire:  Lastest Updated on 2026.05.18 for GF-HCD Dataset :fire::fire::fire:
+:fire::fire::fire:  Lastest Updated on 2026.06.17 for FOTBCD Dataset :fire::fire::fire:
+
+:fire::fire::fire:  Updated on 2026.05.18 for GF-HCD Dataset :fire::fire::fire:
 
 :fire::fire::fire:  Updated on 2026.04.09 for Delta-SN6,Wuhan-Het :fire::fire::fire:
 
