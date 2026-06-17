@@ -37,7 +37,15 @@ Change detection (CD) aims to compare and analyze images of identical geographic
 	    <th>Website</th>
 	</tr>
 	<tr>
-	<th rowspan="17">Building</th>
+	<th rowspan="18">Building</th>
+	<th>FOTBCD[<a href="https://arxiv.org/html/2601.22596v1" target="_blank">paper</a>]</th>
+    <th>2026</th>
+    <th>28000</th>
+    <th>512×512</th>
+    <th>0.2m</th>
+    <th> <a href="https://github.com/abdelpy/FOTBCD-datasets" target="_blank">link</a></th>
+    </tr>
+	<tr>
     <th>CWSCD[<a href="https://www.sciencedirect.com/science/article/pii/S1569843225005084?dgcid=rss_sd_all" target="_blank">paper</a>]</th>
     <th>2025</th>
     <th>200</th>
@@ -201,14 +209,6 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>-</th>
     <th>-</th>
     </tr>
-	<tr>
-    <th>ZY3[<a href="https://doi.org/10.1109/TGRS.2020.2981051" target="_blank">paper</a>]</th>
-    <th>2017</th>
-    <th>1</th>
-    <th>458×559</th>
-    <th>5.8m</th>
-    <th><a href="http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/" target="_blank">link</a></th>
-    </tr>
      <tr>
     <th>OSCD[<a href="https://ieeexplore.ieee.org/document/8518015" target="_blank">paper</a>]</th>
     <th>2018</th>
@@ -216,6 +216,14 @@ Change detection (CD) aims to compare and analyze images of identical geographic
     <th>600×600</th>
     <th>10m-60m</th>
     <th><a href="https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection" target="_blank">link</a></th>
+    </tr>
+	<tr>
+    <th>ZY3[<a href="https://doi.org/10.1109/TGRS.2020.2981051" target="_blank">paper</a>]</th>
+    <th>2017</th>
+    <th>1</th>
+    <th>458×559</th>
+    <th>5.8m</th>
+    <th><a href="http://poles.tpdc.ac.cn/zh-hans/data/b9748f8d-c06e-42a4-a2bc-7a185927f025/" target="_blank">link</a></th>
     </tr>
      <tr>
     <th>AICD[<a href="https://ieeexplore.ieee.org/document/6050150" target="_blank">paper</a>]</th>
